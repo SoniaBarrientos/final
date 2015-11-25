@@ -1,0 +1,15 @@
+##Final Assignemnt
+## Sonia Barrientos
+##11/23/15
+
+###Mapping Illegal Animals 
+In the directory of 311 calls across New York City. there are many issues that warrant calls -- however the one tha tcaught my eye was the various reports of Illegal Aminals Kept as Pets. 
+
+Since this topic relates directly to New York City laws, I decided to use a map to illustrate the density of animals in each area and color coded wach category of animal. 
+
+One thing that I did not realize when looking at this was that roosters are arugablely the most popular animals to be illegally kept and that the Bronx and Brooklyn are the most popoulous.  
+
+In order to find this data, I mined the 311 calls from 2010-2013 nand separated the animals ones from the other complaints. 
+
+![download](https://cloud.githubusercontent.com/assets/14101243/11386529/0c59c696-92f0-11e5-86f3-a44c21d9b238.jpeg)
+
